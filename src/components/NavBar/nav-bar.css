@@ -1,0 +1,10 @@
+#nav-container {
+    width: 100%;
+}
+
+#nav-links {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 7%;
+    padding-right: 7%;
+}
