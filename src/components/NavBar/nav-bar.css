@@ -8,3 +8,19 @@
     padding-left: 7%;
     padding-right: 7%;
 }
+
+.light-theme-nav {
+    background-color: blue;
+}
+
+.light-theme-nav a {
+    color: gold;
+}
+
+.dark-theme-nav {
+    background-color: #3a3b3c;
+}
+
+.dark-theme-nav a {
+    color: #fff;
+}

@@ -7,7 +7,7 @@ export default function Button() {
     
     return (
         <div>
-            <button type="button" onClick={context.toggle} className={`${context.buttonTheme}-theme`}>Change Theme</button>
+            <button type="button" onClick={context.toggle} className={`${context.buttonTheme}-theme-button`}>Change Theme</button>
         </div>
     )
 }
